@@ -1,5 +1,5 @@
 {
-  "name": "⁠𝚃𝙸𝙼𝙽𝙰𝚂𝙰-𝚃𝙼𝙳𝟷 MULT DEVICE",
+  "name": "⁠꧁ঔ☬۝𝐙𝐀𝐘𝐀𝐍𝐅𝐎𝐔𝐑𝐅𝐈𝐍𝐆𝐄𝐑𝐒۝☬ঔ꧂",
   "description": "𝚃𝙸𝙼𝙽𝙰𝚂𝙰 𝚃𝙼𝙳𝟷 Whatsapp device bot made by 𝚃𝙸𝙼𝙽𝙰𝚂𝙰 𝚃𝙴𝙲𝙷 to help Whatsapp users to enjoy while helping...",
   "keywords": [
     "bot",
@@ -20,17 +20,17 @@
     "AUTO_READ_STATUS": {
       "description": "Your contact status will be read automatically (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
       "value": "yes",
-      "required": false
+      "required": true
     },
     "AUTO_REPLY": {
       "description": "when enabled it automatically sends  auto reply message to members in your pm",
-      "value": "no",
-      "required": false
+      "value": "hi budy",
+      "required": true
     },
     "AUTO_REACT_STATUS": {
       "description": "Your contact status will be react automatically (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
       "value": "yes",
-      "required": false
+      "required": true
     },
     "AUTO_BIO": {
       "description": "This automatically update your bio status.Always make sure you insert your OWNER_NAME since it uses that to update your bio name status",
@@ -55,12 +55,12 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "TIMNASA-TMD1",
-      "required": false 
+      "value": "꧁ঔ☬۝𝐙𝐀𝐘𝐀𝐍𝐅𝐎𝐔𝐑𝐅𝐈𝐍𝐆𝐄𝐑𝐒۝☬ঔ꧂"
+      "required": true
     },
     "PUBLIC_MODE": {
       "description": "Set 'yes' to make your bot public or 'no' to keep it private",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -75,7 +75,7 @@
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNEluUW9abjBDMHFobm1PSUU5K0dNSE1Ub1pxNHRGSVNYTkYrcG1NL1VFZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZmFJVElQTnJUZ0JmQ0t4cWpQZVRQSjdVa1RvNGRzbGV1Y2cwS0ttSWtSbz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJvSEpaRmU3RmNPODZQdGd1NTRDY1ZIcUFtSjBiY3JZUUpTa0xCN3J4MEZNPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJrZzE5Skc5OUNWRVBTSitJZnJjbWQ1VWhUNjY5dTJRVVJhT0VnMlZoYkRzPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IllOSFVjT01BeWQwNEVqdzVueUNwbUpEQWx0OEpvU3JmbG5xRUx1bVE1Vzg9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InlhL2xxS09VMmk4RW1Uc0p4NjRaUi93bU5uWUprYkJiVmVHd3pnUjA3bFk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT0I0QzdOYVhVL0dHdDF3bkYvNGRLaFp3UlU1QTQva2V6NmRXZSs1MlBtTT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNnBESkh2RkxnbmNWSEdBQUtENFRSazdvU3VsUXRLWHpmSU94YXZDMUdIbz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InZQaVc4THJPdEFIK0ZpVFFwcE9vR2pBU0F0M1RjSXRQWU9JZ082NHNuemVVdE41YTZLMTlseUM2R1JOcmtmN2ZncmlBalQzdmZLTXk5eWdhTEJUeGdBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTE3LCJhZHZTZWNyZXRLZXkiOiJHZ2xKTnNvZ1hoaXU5MExyMjVtb1Era1FvOTQya1k4dURlMzRFaWsvWmkwPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJ5Q2RQcDJmUlNpLVdOVjdqU3NSVlhBIiwicGhvbmVJZCI6IjUyMDQzZGZjLTZkZjMtNGM4ZC04NzJkLTA2YTA0MTUyZjkwNyIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI5aHplUEZhWFV1LzVtVDdEbDJXM2gyRVVJN3M9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiS3F5ZG9TWWxTT04zd1RBSDlTa0ZNVHJTcURzPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjdMODE5NldDIiwibWUiOnsiaWQiOiI2MDExMTc1MDg1MjU6ODBAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ1BYTmtLZ0VFTWJ6dXI0R0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6ImZBTlJxVThBVytDcWhsVWVyMm5oa0VSK0dqTzkrd2Jvb2J3ZFZuVEUwRkU9IiwiYWNjb3VudFNpZ25hdHVyZSI6IkJTai9tbWd6cEo4aEgzU1k0aklIckVIdEU5MTQyUmYzcXVka1dFNHBxV21uNGtDU0RqZHJpRTA1K0xERC9Wc20wZUVIdHBXVUYvVnVaZ0pyQTd0VURnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJuakhhRWdoS3BjRHFUSmFqUy95UzIvbDdkOTBmS0lwVk1yVkhDQld1YTl5MTJMRmpTeFN0OEZydjJlNFBLcVVkUjA0aFZxeUtZbDFUQnlKckphNnNqUT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjYwMTExNzUwODUyNTo4MEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJYd0RVYWxQQUZ2Z3FvWlZIcTlwNFpCRWZob3p2ZnNHNktHOEhWWjB4TkJSIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzQxNjAxMjM2LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUx5VSJ9",
       "required": true
     },
     "OWNER_NAME": {
